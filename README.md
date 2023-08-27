@@ -1,1 +1,1 @@
-# Laboratorio 1 elèctronica digital
+# Laboratorio 1 eléctronica digital
