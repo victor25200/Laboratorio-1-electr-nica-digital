@@ -14,7 +14,12 @@ El tiempo de bajada es de 338 nS
 [![image.png](https://i.postimg.cc/SRfmL5WF/image.png)](https://postimg.cc/N2LhBdJp)
 El tiempo de retardo es de 84 nS
 ### Datasheet
-Segun el datasheet su tiempo de bajada retardo y subida deben estar entre los 10 y 15 nS 
+Segun el datasheet su tiempo de bajada retardo y subida deben estar entre los 10 y 15 nS
+### Disipación de potencia 
+Vcc = 2.22 V
+Icc = 12.38 mA
+Potencia disipada = (Vcc)(Icc)
+Pd = (2.22V)(14.38mA) =31 mW
 ## Integrado CD4069
 ### Tiempo de subida
 [![image.png](https://i.postimg.cc/KvshbghB/image.png)](https://postimg.cc/gnRTqjJ2)
@@ -27,6 +32,11 @@ El tiempo de bajada es de 1.16 uS
 El tiempo de retardo 496 ns
 ### Datasheet
 Segun el datasheet su tiempo de bajada retardo y subida deben estar entre los 30 y 50 nS
+### Disipación de potencia 
+Vcc = 3.25 V
+Icc = 13.23 mA
+Potencia disipada = (Vcc)(Icc)
+Pd = (3.25V)(14.38mA) =42.99 uW
 ###  Tabla comparativa: tiempos de subida, bajada y retardo de los integrados de forma experimental.
 |Tiempo|74LS04| CD4069 |
 | ------------ | ------------ | ------------ |
