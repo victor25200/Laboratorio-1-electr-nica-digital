@@ -27,6 +27,7 @@ El tiempo de bajada es de 1.16 uS
 El tiempo de retardo 496 ns
 ### Datasheet
 Segun el datasheet su tiempo de bajada retardo y subida deben estar entre los 30 y 50 nS
+###  Tabla comparativa: tiempos de subida, bajada y retardo de los integrados de forma experimental.
 |Tiempo|74LS04| CD4069 |
 | ------------ | ------------ | ------------ |
 | Subida |  104 nS |  118 nS |
