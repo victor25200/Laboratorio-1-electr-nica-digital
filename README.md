@@ -43,7 +43,9 @@ Pd = (3.25V)(14.38mA) =42.99 uW
 | Subida |  104 nS |  118 nS |
 | Bajada  | 338 nS  |  1.16 uS |
 |  Retardo |  84 nS | 496 ns  |
-
+## Conclusiones
+- El integrado 74LS04 En teoria sus tiempos de subida, bajada y retardo son mas rapido que el Cd4069 y según las mediciones realizadas se evidencia que es , sin embargo en una de las mediciones dio como resultado lo contrario esto puede ser debido a distintos factores como temperatura, desgaste del integrado e intrumentos, resitencias internas del mismo, error humano, etc.
+- El integrado CD4069 tiene una menor dicipación de potencia que el integrado 74LS04 lo que significa que su eficiencia energética es mejprr lo que hace que su vida util y durabilidad sea mayor
 
 
 
