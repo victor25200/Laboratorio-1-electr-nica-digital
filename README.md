@@ -15,7 +15,7 @@ El tiempo de bajada es de 338 nS
 El tiempo de retardo es de 84 nS
 ### Datasheet
 Segun el datasheet su tiempo de bajada retardo y subida deben estar entre los 10 y 15 nS 
-## Integrado CD069
+## Integrado CD4069
 ### Tiempo de subida
 [![image.png](https://i.postimg.cc/KvshbghB/image.png)](https://postimg.cc/gnRTqjJ2)
 El tiempo de subida es de 118 nS
@@ -27,10 +27,13 @@ El tiempo de bajada es de 1.16 uS
 El tiempo de retardo 496 ns
 ### Datasheet
 Segun el datasheet su tiempo de bajada retardo y subida deben estar entre los 30 y 50 nS
-|tiempo|74LS04| CD069 |
+|Tiempo|74LS04| CD4069 |
 | ------------ | ------------ | ------------ |
-| subida |  104 nS |  118 nS |
-| bajada  | 338 nS  |  1.16 uS |
-|  retardo |  84 nS | 496 ns  |
+| Subida |  104 nS |  118 nS |
+| Bajada  | 338 nS  |  1.16 uS |
+|  Retardo |  84 nS | 496 ns  |
+
+
+
 
 
