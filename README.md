@@ -1,3 +1,6 @@
+### Integrantes grupo 7
+Victor Sebastian Santiago Acosta
+
 # Laboratorio 1 eléctronica digital
 ## Circuito equivalente  74LS04
 [![image.png](https://i.postimg.cc/bwJczFLM/image.png)](https://postimg.cc/svt0mmk9)
