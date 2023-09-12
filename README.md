@@ -1,7 +1,9 @@
 ### Integrantes grupo 7
-Victor Sebastian Santiago Acosta
-Daniel Felipe Castro Galindo
-Nicolas Peña Garzon 
+Victor Sebastian Santiago Acosta.
+
+Daniel Felipe Castro Galindo.
+
+Nicolas Peña Garzon.
 
 # Laboratorio 1 eléctronica digital
 ## Circuito equivalente  74LS04
