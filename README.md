@@ -1,4 +1,4 @@
-### Integrantes grupo 7
+### Integrantes grupo 4
 Victor Sebastian Santiago Acosta.
 
 Daniel Felipe Castro Galindo.
