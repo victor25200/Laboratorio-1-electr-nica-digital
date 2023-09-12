@@ -74,7 +74,7 @@ En esta simulacion observamos al iterar varias veces los valores de las resisten
 En esta simulacion observamos el tiempo de carga y descarga para el circuito TTL, en donde obtuvimos un tiempo de retardo demasiado pequeño en el orden de los microsegundos. 
 
 ## Simulacion CMOS CD4069 (Resistencia de salida 0 ohm)
-[![image.png](https://i.postimg.cc/FKzxrmz7/CMOS-simulacion-con-valores-reales.png).
+[![Whats-App-Image-2023-09-11-at-1-40-23-PM.jpg](https://i.postimg.cc/3R40c4yN/Whats-App-Image-2023-09-11-at-1-40-23-PM.jpg)](https://postimg.cc/LYSsqs3F)
 
 Por medio de esta simulacion podemos observar el comportamiento del circuito si utilizaramos como configuracion de las resistencias de entrada y salida con la cual al realizar el ensamble obtuvimos un comportamiento en el cual la ganancia es de 1, pero en cambio al momento de realizar la simulacion obtuvimos una ganancia de aproximadamente el 0.
 ## Simulacion CMOS CD4069 (Resistencia de entrada y salida 100 K-ohm).
